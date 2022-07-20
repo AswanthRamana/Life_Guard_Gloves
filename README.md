@@ -7,4 +7,4 @@ We attach the sensors like DS18B20 Temperature sensor, Flex sensor , Vibration m
 - In the future, if a person will have heart attack means, Our project will be identified that in the present itself because the data set is dynamically linked with the past data set and the health condition of the patient.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswanthRaman&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswanthRamana&theme=radical)
